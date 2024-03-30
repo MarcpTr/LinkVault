@@ -13,7 +13,6 @@
     "firebase": "^10.7.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-instagram-embed": "^1.5.0",
     "react-social-media-embed": "^2.4.1"
   },
   "devDependencies": {
