@@ -25,13 +25,13 @@ function Content({ category, urls, removeUrl, modifyNota }) {
                             content = <YouTubeEmbed url={el.url} />;
                         }
                         break;
-                    case "twitter":
+                  /*  case "twitter":
                         content = (
                             <>
                                 <TwitterEmbed url={el.url} />
                             </>
                         );
-                        break;
+                        break;*/
                     case "instagram":
                         content = (
                             <>
